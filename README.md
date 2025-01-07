@@ -1,7 +1,4 @@
-# Custom-Llama-3.2-1B-Language-Model-Integration-with-LangChain-for-Interactive-Q-A
-
-
-# 🌟 Interactive Q&A System with Llama 3.2-1B and Hugging Face Integration 🌟
+# 🌟 Custom-Llama-3.2-1B-Language-Model-Integration-with-LangChain-for-Interactive-Q-A 🌟
 
 Welcome to the **Interactive Question-Answering System** project! This repository demonstrates how to build an advanced Q&A system powered by **Meta's Llama 3.2-1B model** using **Hugging Face Transformers**, **LangChain**, and **custom fine-tuning**. 🚀
 
